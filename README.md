@@ -8,9 +8,7 @@
 <p>For the sake of ease, the following list are links to the various/relevant section of code</p>
 <ul>
 	<li><a href="Internal Holding Tank.ipynb">Internal Holding tank</a></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li><a href="Heat Exchangers.ipynb">Heat Exchangers</a></li>
+	<li><a href="Pipe Size and Specs.py">Pipe Size and Specs<a/></li>
+	<li><a href="Control Valves.ipynb">Control Valves</a></li>
 </ul> 
