@@ -37,5 +37,8 @@
 	<li><a href="PID/HE PID.png">The heat exchangers</a></li>
 	<li><a href="PID/Cooling_Heating Water.png">The Heating/Cooling lines</a></li>
 	<li><a href="PID/PFD.png">Process Flow  Diagram</a></li>
-
 </ul>
+
+<h2>Manufacturer's specifications for the Heat Exchangers</h2>
+
+<p>The manufacturers specs for the heat exchangers can be found <a href="Specs">here.</a></p>
