@@ -39,6 +39,7 @@
 	<li><a href="PID/PFD.png">Process Flow  Diagram</a></li>
 </ul>
 
-<h2>Manufacturer's specifications for the Heat Exchangers</h2>
+<h2>Manufacturer's specifications</h2>
 
 <p>The manufacturers specs for the heat exchangers can be found <a href="Specs">here.</a></p>
+<p>The specs for the stainless steel AISI 316 can be found <a href="Specs/Stainless.pdf">here.</a></p>
