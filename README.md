@@ -12,7 +12,7 @@
 	<li><a href="Code/Pipe Size and Specs.py">Pipe Size and Specs<a/></li>
 	<li><a href="Code/Control Valves.ipynb">Control Valves</a></li>
 	<li><a href="Code/Control Valve Design Cooling.ipynb">Control Valve - Cooling</a></li>
-	<li><a href="Code/Control VAlve Design Heating.ipynb">Control Valve - Heating</a></li>
+	<li><a href="Code/Control Valve Design Heating.ipynb">Control Valve - Heating</a></li>
 	<li><a href="Code/Pump Specifications Cooling.ipynb">Centrifugal Pump - Cooling</a></li>
 	<li><a href="Code/Pump Specifications Heating.ipynb">Centrifugal Pump - Heating</a></li>
 	<li><a href="Code/Pump Specifications PD.ipynb">Positive Displacement Pump</a></li>
@@ -33,7 +33,7 @@
 <p>These are the higher resolution P_ID's, just in case the pictures in the report are not clear enough</p>
 <ul>
 	<li><a href="PID/Whole System PID.png">The entire plant</a></li>
-	<li><a href="PID/Egg System PID.png">Only the egg line</a></li>
+	<li><a href="PID/Egg system PID.png">Only the egg line</a></li>
 	<li><a href="PID/HE PID.png">The heat exchangers</a></li>
 	<li><a href="PID/Cooling_Heating Water.png">The Heating/Cooling lines</a></li>
 	<li><a href="PID/PFD.png">Process Flow  Diagram</a></li>
