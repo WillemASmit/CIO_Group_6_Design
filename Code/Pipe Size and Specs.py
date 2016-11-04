@@ -6,35 +6,7 @@ Created on Mon Oct 17 19:10:53 2016
 """
 import numpy as np
 from scipy.optimize import fsolve
-#mu = 0.000033
-#e = 0.046
-#rho = 800
-#
-#def P_eq(W,D):
-#    
-#    d = D*1000
-#    def colebrook(e,D, Re):
-#        def fn1(f):
-#            return 1/(-2*np.log10(e/D/3.7+2.51/Re/np.sqrt(f)))**2
-#        error = 10E-10
-#        x = 0.02
-#        x_n = 10
-#        while abs(x-x_n)>error:
-#            x_n = x
-#            x = fn1(x_n)
-#        return x
-#
-#    Re = 354*W/d/mu
-#    f_prime = colebrook(e,D,Re)
-#    Lp = 23
-#    Lr = (48*30 + 135)*D
-#    Le = Lp + Lr
-#    del_P = (62544*f_prime*Le*W**2) / (rho*d**5) 
-#    return del_P
-    
-#==============================================================================
-# L-101, L-102 en L-103
-#==============================================================================
+
 print("L-101, L-102 en L-103")
 print("======================================================================")
 rho = 1027
@@ -85,8 +57,7 @@ Peq = 30 + 32 + 80 + 90
 Pel = 2.8*rho*9.81/1000
 
 M = 1.125
-P = del_Pf + Peq + Pel 
-P = P/1000
+P = 70 
 S = 0.5*(206.843)
 E = 1
 Y = 0.4
