@@ -1,7 +1,7 @@
 <h1>CIO Group 6 Design project</h1>
 
 <h2>Introduction</h2>
-<p>The purpose of this repository is to supplement the design report. We designed a pasteurzation process for a mayonnaise mixing plant. The design consists of the piping, heat exchangers, internal holding tank, pumps as well as the relevant control valves to be used during operation of the plant. All of the relevant calculations that were done, and only briefly discussed, in the report are given in more detail in this repository.</p>
+<p>The purpose of this repository is to supplement the <a href="Report/Final_Report.pdf">design report</a>. We designed a pasteurzation process for a mayonnaise mixing plant. The design consists of the piping, heat exchangers, internal holding tank, pumps as well as the relevant control valves to be used during operation of the plant. All of the relevant calculations that were done, and only briefly discussed, in the report are given in more detail in this repository.</p>
 
 <h2>Links to the code</h2>
 
