@@ -11,6 +11,11 @@
 	<li><a href="Code/Heat Exchangers.ipynb">Heat Exchangers</a></li>
 	<li><a href="Code/Pipe Size and Specs.py">Pipe Size and Specs<a/></li>
 	<li><a href="Code/Control Valves.ipynb">Control Valves</a></li>
+	<li><a href="Code/Control Valve Design Cooling.ipynb">Control Valve - Cooling</a></li>
+	<li><a href="Code/Control VAlve Design Heating.ipynb">Control Valve - Heating</a></li>
+	<li><a href="Code/Pump Specifications Cooling.ipynb">Centrifugal Pump - Cooling</a></li>
+	<li><a href="Code/Pump Specifications Heating.ipynb">Centrifugal Pump - Heating</a></li>
+	<li><a href="Code/Pump Specifications PD.ipynb">Positive Displacement Pump</a></li>
 </ul> 
 
 <h2>Material safety and data sheets</h2>
@@ -31,6 +36,6 @@
 	<li><a href="PID/Egg System PID.png">Only the egg line</a></li>
 	<li><a href="PID/HE PID.png">The heat exchangers</a></li>
 	<li><a href="PID/Cooling_Heating Water.png">The Heating/Cooling lines</a></li>
-	<li><a href="PID/PFD">Process Flow  Diagram</a></li>
+	<li><a href="PID/PFD.png">Process Flow  Diagram</a></li>
 
 </ul>
